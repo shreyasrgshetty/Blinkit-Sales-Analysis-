@@ -35,4 +35,4 @@ Item Type
 
 This dashboard acts as a decision-support tool for tracking sales performance, understanding customer preferences, and identifying growth opportunities across outlets and product categories.
 
-Snapshot of Dashboard :
+Snapshot of Dashboard : https://github.com/shreyasrgshetty/Blinkit-Sales-Analysis-/blob/main/Blinkit%20Snapshot.png
